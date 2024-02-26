@@ -2,7 +2,7 @@
 
 Example project for YouTube tutorial on Unit Testing with [Jest](https://jestjs.io).
 
-🍿 YouTube: https://youtu.be/VilJ0SxZJAs
+🍿 YouTube: https://youtu.be/diC9TvwXSUM
 
 ## Install Jest
 
