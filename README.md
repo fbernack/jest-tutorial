@@ -6,13 +6,13 @@ Example project for YouTube tutorial on Unit Testing with [Jest](https://jestjs.
 
 ## Install Jest
 
-To install Jest, execute:
+To install Jest as a dev dependency, execute:
 
 ```shell
 npm install jest --save-dev
 ```
 
-Add a corresponding run script to the `package.json` 
+Add a corresponding run script to the `package.json`:
 
 ```json
 {
