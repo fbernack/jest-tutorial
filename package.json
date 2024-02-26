@@ -1,0 +1,14 @@
+{
+  "name": "jest-tutorial",
+  "version": "1.0.0",
+  "description": "First steps in unit tests with Jest.",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Franz Bernack",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
